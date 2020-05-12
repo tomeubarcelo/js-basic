@@ -1,0 +1,26 @@
+[33mcommit 559054cf7949e971ac800fedb49747f0f1e43df9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Tomeu Barcelo <tomeu.95@gmail.com>
+Date:   Tue May 12 11:39:27 2020 +0200
+
+    first commit
+
+[33mcommit b4a1eae3089b8651e9c3d0b587e41b8ed6553bc7[m
+Author: toniferraprofe <52382398+toniferraprofe@users.noreply.github.com>
+Date:   Fri May 8 11:56:24 2020 +0200
+
+    Update index.html
+    
+    Añadidas nuevas etiquetas principales para la estructura semántica.
+    Nuevo enfoque hacia un Framework de CSS.
+
+[33mcommit 93b764c1fc9e4e21abcdbf3f4ffc3f652c2568a9[m
+Author: toniferraprofe <52382398+toniferraprofe@users.noreply.github.com>
+Date:   Wed May 6 19:32:07 2020 +0200
+
+    Create README.md
+
+[33mcommit c1e79245d07f737e7a0ff95a6d90d8688ec373ad[m
+Author: toniferra <profesor@toniferra.com>
+Date:   Wed May 6 19:15:10 2020 +0200
+
+    Inicio de proyecto con una platilla base de FrontEnd, HTML5 + CSS3 + SASS + Javascript
