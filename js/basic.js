@@ -86,7 +86,6 @@ function operators() {
     console.log("10%2= " + resto);
 }
 
-
 //aqui hacemos las llamadas a las funciones que queramos
 parrafo();
 nuevaFuncion();
